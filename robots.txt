@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://dong79.hzone.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
